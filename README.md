@@ -8,7 +8,7 @@
 
 🎯 My goal is to leverage my skills and expertise to contribute to the innovation and success of leading organizations in the software industry. I am eager to connect and collaborate on projects that foster innovation and push the boundaries of what's possible in the realm of software development.
 
-📫 Let's connect and collaborate! Feel free to contact me anytime!
+🔗 Let's connect and collaborate! Feel free to contact me anytime!
 - E-mail: kinzaghaffar3118@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kinzaghaffar/
 
