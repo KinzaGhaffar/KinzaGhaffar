@@ -1,6 +1,6 @@
 # Kinza Ghaffar | Software Engineer | Masters in Information Processing Sciences Specializing in Software Engineering
 
-👋 Hei, I’m Kinza Ghaffar, a resourceful Software Engineer with a passion for continual improvement and staying abreast of emerging technologies. My commitment to ensuring the reliability and integrity of software products has been underscored by my proactive approach to identifying and resolving issues, ensuring the delivery of high-quality solutions.
+👋 Hei, I’m Kinza Ghaffar, a resourceful Software Engineer with a passion for continual improvement, learning, and development, staying abreast of emerging technologies. My commitment to ensuring the reliability and integrity of software products has been underscored by my proactive approach to identifying and resolving issues, ensuring the delivery of high-quality solutions.
 
 🔍 I have a keen interest in exploring advancements in AI and ML, leveraging my foundation in Python scripting to contribute to comprehensive review processes and the implementation of efficient CI/CD pipelines.
 
